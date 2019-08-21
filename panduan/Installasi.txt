@@ -1,0 +1,15 @@
+Installasi pada localhost
+
+1. Download Xampp untuk PHP 5.**
+2. Aktifkan / Start mysql dan apache
+3. Letakkan folder cutiv pada C:/Xampp/htdocs
+4. Buka pada browser http://localhost/phpmyadmin
+5. Buat sebuah database bernama "cutiv"
+6. Lalu import file database "cutiv.sql" ke dalam database "cutiv" yang telah dibuat
+7. Selesai
+
+Untuk membuka aplikasi buka http://localhost/cutiv
+User Admin : admin
+Pass Admin : admin
+
+Terima Kasih
